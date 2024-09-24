@@ -32,7 +32,9 @@ Listado interactivo de conductores de **Fórmula 1**.
 
 ## Lenguaje mas Usados
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+---
 
 ## 📊 Estadísticas de GitHub
 
