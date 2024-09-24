@@ -8,6 +8,9 @@
 - 💬 Pregúntame sobre Desarrollo Web.
 - 📫 Cómo contactarme: maharba1707@gmail.com.
 
+## Sobre mí
+👨‍💻 **Diseñador Web** con experiencia en desarrollo de interfaces visualmente atractivas. Me encanta crear experiencias de usuario intuitivas y funcionales.
+
 ## Proyectos Destacados
 
 - Proyecto de Perros (https://github.com/Maharba07/PI-Dogs) - Aca muestro una API de Perros en la que te muestra la foto y el nombre de perros por raza.
@@ -17,8 +20,8 @@
 ## Habilidades
 
 - Lenguajes de programación: JavaScript.
-- Tecnologías: [Lista de tecnologías].
-- Herramientas: [Lista de herramientas].
+- Tecnologías: Node.js, React, Next.js, Tailwindcss, react-router-dom.
+- Herramientas: Visual Studio Code, GitHub.
 
 ## Estadísticas de GitHub
 
