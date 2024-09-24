@@ -32,7 +32,7 @@ Listado interactivo de conductores de **Fórmula 1**.
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Maharba07&show_icons=true&theme=dark)
 
 ---
 
